@@ -1,0 +1,19 @@
+{
+  "name": "lotockl",
+  "version": "1.0.0",
+  "description": "Develop a web app with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vohcan/loto_ckl.git"
+  },
+  "author": "vohcan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vohcan/loto_ckl/issues"
+  },
+  "homepage": "https://github.com/vohcan/loto_ckl#readme"
+}
